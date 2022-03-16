@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-logspace",
-  "version": "0.0.7",
+  "version": "0.0.0",
   "description": "Generate a logarithmically spaced numeric array.",
   "license": "Apache-2.0",
   "author": {
