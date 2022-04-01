@@ -1,0 +1,34 @@
+{
+  "name": "@stdlib/array-logspace",
+  "version": "0.0.0",
+  "description": "Generate a logarithmically spaced numeric array.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/array-logspace.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "utilities",
+    "utils",
+    "generic",
+    "array",
+    "matlab",
+    "linear",
+    "log",
+    "logarithmic"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
