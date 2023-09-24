@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import logspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-logspace@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/array-logspace/tags). For example,
+
+```javascript
 import logspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-logspace@v0.1.0-esm/index.mjs';
 ```
 
@@ -80,7 +85,7 @@ var arr = logspace( 0, 2, 6 );
 <body>
 <script type="module">
 
-import logspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-logspace@v0.1.0-esm/index.mjs';
+import logspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-logspace@esm/index.mjs';
 var out;
 
 // Default behavior:
