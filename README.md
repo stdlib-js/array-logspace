@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import logspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-logspace@esm/index.mjs';
+import logspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-logspace@v0.2.0-esm/index.mjs';
 ```
 
 #### logspace( a, b\[, length] )
@@ -80,7 +80,7 @@ var arr = logspace( 0, 2, 6 );
 <body>
 <script type="module">
 
-import logspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-logspace@esm/index.mjs';
+import logspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-logspace@v0.2.0-esm/index.mjs';
 var out;
 
 // Default behavior:
